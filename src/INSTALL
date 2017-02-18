@@ -1,0 +1,9 @@
+Building MACRON
+
+See doc/readme-qt.rst for instructions on building MACRON QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MACRON.
+
+See doc/build-*.txt for instructions on building MACRONd,
+the intended-for-services, no-graphical-interface, reference
+implementation of MACRON.
